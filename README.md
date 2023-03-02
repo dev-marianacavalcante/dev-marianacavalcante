@@ -23,12 +23,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## :chart_with_upwards_trend: Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricavalcante&layout=compact&theme=swift"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maricavalcante&show_icons=true&theme=swift"/>
-</div>
 
 ## :speech_balloon: Let's talk!
 <a href="https://www.linkedin.com/in/dev-marianacavalcante/" target="_blank">
