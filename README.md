@@ -6,12 +6,7 @@
  - Coding from Fortaleza/CE. 
 
  - Studying web programming with [Rocketseat](https://rocketseat.com.br/). 
- 
- - Passionate about Front-end.💗 
- 
- - Married to UX and lover of UI.💒 
 
- - Design creates culture. Culture shapes values. Values determine the future.
 
 ## 🛠 &nbsp;Stack
 
