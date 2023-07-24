@@ -1,12 +1,4 @@
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 <h3 align="center">A front end developer passionate about reactJS</h3>
 
